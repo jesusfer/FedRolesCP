@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FedRolesCP", "FedRolesCP\FedRolesCP.csproj", "{1BB8217B-3A79-479B-B4C1-72571A01E6CC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClaimsViewerWebPart", "ClaimsViewerWebPart\ClaimsViewerWebPart.csproj", "{806CE567-D247-49D7-BA7B-D195C5DA23BE}"
