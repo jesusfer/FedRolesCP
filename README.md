@@ -1,5 +1,5 @@
 # FedRolesCP
-A SharePoint claim provider to inject Roles.
+A SharePoint claim provider that does claim augmentation and injects role claims in user identities.
 
 There are some situations where the roles in the identities cannot be refreshed and this claim provider aims to be an example of how those roles can be retrieved and injected back in the user tokens.
 
