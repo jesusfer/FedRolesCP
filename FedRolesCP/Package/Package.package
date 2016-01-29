@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="d72d8e10-248e-464d-b10a-27bc4d3907b5" solutionId="d72d8e10-248e-464d-b10a-27bc4d3907b5" resetWebServer="false" name="FedRolesCP" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="fcfebe18-aa55-425c-b41b-517f301687af" />
+  </features>
+</package>
